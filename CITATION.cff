@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Shortcut Learning in Geospatial Foundation Model Embeddings for Cross-Disaster Damage Assessment"
+type: software
+repository-code: "https://github.com/alishibli97/gfm-shortcut-learning"
+authors:
+  - family-names: Shibli
+    given-names: Ali
+  - family-names: Nascetti
+    given-names: Andrea
+  - family-names: Ban
+    given-names: Yifang
+preferred-citation:
+  type: conference-paper
+  title: "Shortcut Learning in Geospatial Foundation Model Embeddings for Cross-Disaster Damage Assessment"
+  authors:
+    - family-names: Shibli
+      given-names: Ali
+    - family-names: Nascetti
+      given-names: Andrea
+    - family-names: Ban
+      given-names: Yifang
+  year: 2026
+  conference:
+    name: "NeurIPS 2026: 2nd Workshop on Advances in Representation Learning for Earth Observation"

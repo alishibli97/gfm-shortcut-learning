@@ -1,6 +1,6 @@
 # Shortcut Learning in Geospatial Foundation Model Embeddings for Cross-Disaster Damage Assessment
 
-Code for the paper accepted at NeurIPS 2026, 2nd Workshop on Advances in Representation Learning for Earth Observation. [Citation](CITATION.cff).
+Code for the paper accepted at NeurIPS 2026, 2nd Workshop on Advances in Representation Learning for Earth Observation.
 
 Follow these steps to run the code.
 
